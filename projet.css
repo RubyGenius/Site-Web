@@ -1,0 +1,52 @@
+body
+{
+	background-color: grey;
+	/*background-image:url(FondSite.png);*/
+
+}
+header
+
+aside
+{
+	text-align: center;
+}
+
+img
+{
+	width: 25%;
+	height : 25%;
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: White;
+	border-radius: 100%;
+	background-color: Black;
+}
+
+nav
+{
+	text-align:center;
+	font-family: "OratorStd";
+    font-weight: bold;
+	color: #730000;
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: White;
+	border-radius: 30px;
+
+	background-color: Black;
+	line-height: 15px;
+	padding:10px 0px 10px 0px;
+
+	display: block;
+}
+
+form
+{
+	font-family: "OratorStd";
+	padding:10px 0px 10px 0px;
+	color: Black;
+	text-align: center;	
+	vertical-align: bottom;
+}
